@@ -3,7 +3,7 @@ package Base;
 import io.restassured.response.Response;
 import net.minidev.json.JSONObject;
 
-import java.util.Random;
+import java.util.Random; //тест пуша
 
 import static io.restassured.RestAssured.given;
 
